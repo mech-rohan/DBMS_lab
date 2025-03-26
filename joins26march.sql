@@ -1,3 +1,5 @@
+--JOINS IN SQL 26 MARCH
+
 CREATE TABLE customer (
     c_id INT PRIMARY KEY,
     c_name VARCHAR(50),
